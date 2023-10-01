@@ -1,0 +1,147 @@
+body
+{
+	background-image: url('images/bg_hd.gif');
+}
+img
+{
+	border: none;
+}
+p
+{
+	margin: 10px 35px;
+}
+a
+{
+	font-weight: bold;
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+hr
+{
+	width: 85%;
+}
+h1
+{
+	margin: 0px 25px;
+	text-align: center;
+}
+h3
+{
+	margin: 0px 25px;
+}
+#siteHeader
+{
+	margin: 0px auto;
+	width: 728px;
+}
+#siteBody
+{
+	border-left: 4px solid #222222;
+	border-right: 4px solid #222222;
+	margin: 0px auto;
+	width: 952px;
+	min-height: 500px;
+	background-color: white;
+	background-image: url('images/bg_pat.gif');
+}
+.navMenu, #siteFooter
+{
+	margin: 0px auto;
+	width: 960px;
+	color: #FFFFFF;
+	background-color: #222222;
+	text-align: center;
+}
+.navMenu
+{
+	padding: 5px 0px;
+}
+#siteFooter
+{
+	font-size: 0.75em;
+    color: #FFFFFF;
+}
+#siteFooter a
+{
+    color: #FFFFFF;
+    font-weight: normal;
+}
+.navLink
+{
+	padding: 5px 20px;
+	margin: 0px 10px;
+	font-weight: bold;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	text-decoration: none;
+	border: none;
+	color: white;
+}
+.navLink:hover
+{
+	color: #000000;
+	background-color: #D0D0D0;
+}
+.navLinkOn
+{
+	padding: 5px 20px;
+	margin: 0px 10px;
+	color: #FFCC44;
+	text-decoration: underline;
+	font-weight: bold;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	border: none;
+}
+.navLinkOn:hover
+{
+	background-color: #D0D0D0;
+}
+#bookImg
+{
+	border: 2px solid #FFCC44;
+	margin: 20px;
+	width: 250px;
+	float: right;
+}
+#mainPortrait
+{
+	position: absolute;
+	margin-left: 236px;;
+}
+#mainBookCover
+{
+	position: absolute;
+	margin-top: 290px;
+	margin-left: 470px;
+}
+#mainBookInfo
+{
+	position: absolute;
+	width: 275px;
+	margin-top: 325px;
+	margin-left: 650px;
+	font-family: Georgia, serif;
+	
+}
+#bioFamPortrait
+{
+	border: 2px solid #AAAAAA;
+	margin: 20px;
+	margin-top: 60px;
+	width: 250px;
+	float: left;
+}
+#bioPortrait
+{
+	border: 2px solid #AAAAAA;
+	margin: 20px;
+	width: 175px;
+	float: right;
+}
+.pressAuthor
+{
+	width: 300px;
+	margin-left: 500px;
+}
