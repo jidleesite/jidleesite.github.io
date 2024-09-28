@@ -32,6 +32,10 @@ h3
 {
 	margin: 0px 25px;
 }
+h3.subtitle
+{
+	text-align: center;
+}
 #siteHeader
 {
 	margin: 0px auto;
@@ -98,7 +102,14 @@ h3
 {
 	background-color: #D0D0D0;
 }
-#bookImg
+#bookImg1
+{
+	border: 2px solid #FFCC44;
+	margin: 20px;
+	width: 250px;
+	float: left;
+}
+#bookImg2
 {
 	border: 2px solid #FFCC44;
 	margin: 20px;
